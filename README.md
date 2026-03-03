@@ -41,11 +41,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    Terminalde beliren QR kodu telefonunuzdaki **Expo Go** uygulaması ile okutarak projeyi test edebilirsiniz. (Dilerseniz `a` tuşuna basarak Android Emulator üzerinde veya `i` tuşuna basarak iOS Simulator üzerinde çalıştırabilirsiniz).
 
 ## Proje Tanıtım Videosu
-**YouTube Linki:** [BURAYA YOUTUBE LİNKİ GELECEK]
+**YouTube Linki:** https://youtube.com/shorts/N-RK6O1qpO4
 
-## Derlenmiş Uygulama Dosyaları
-- **APK (Android):** `[APK DOSYA YOLU VEYA LİNKİ BURAYA GELECEK]`
-- **IPA (iOS):** `[IPA DOSYA YOLU VEYA LİNKİ BURAYA GELECEK]`
 
 ## Klasör Yapısı (Modüler Mimari)
 Uygulama, sürdürülebilir olması adına temiz bir mimariyle oluşturulmuştur:
